@@ -1,6 +1,6 @@
-# cs6910_assignment2
+# Convolutional Neural Networks
 
-This is the submission for partA section of Assignment 2.
+This is the implementation of CNNs using PyTorch.
 
 `train.py`: Main code to train the CNN model
 
