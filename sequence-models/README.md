@@ -1,6 +1,6 @@
-# cs6910_assignment3
+# Sequence Models
 
-This repository contains a Python implementation of a sequence-to-sequence encoder-decoder network designed to transliterate from English to Indic languages character by character for CS6910 Assignment 3. The network can be configured to use various types of recurrent neural networks (RNNs), including Vanilla RNNs, LSTMs, and GRUs. The implementation leverages PyTorch and supports multiple training configurations through command-line arguments.
+This repository contains a Python implementation of a sequence-to-sequence encoder-decoder network designed to transliterate from English to Indic languages character by character. The network can be configured to use various types of recurrent neural networks (RNNs), including Vanilla RNNs, LSTMs, and GRUs. The implementation leverages PyTorch and supports multiple training configurations through command-line arguments.
 
 ## Features
 
