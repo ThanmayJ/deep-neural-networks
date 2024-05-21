@@ -1,4 +1,4 @@
-# cs6910_assignment1
+# Feedforward Neural Networks
 
 This is the implementation of a feedforward neural network using NumPy
 
