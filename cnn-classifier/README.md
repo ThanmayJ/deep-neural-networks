@@ -4,11 +4,16 @@ This is the implementation of CNNs using PyTorch.
 
 `train.py`: Main code to train the CNN model
 
-`question4.py`: solution for question 4 to plot 30 sample predictions and actual labels.
-
 `utils.py`: Boiler plate functions
 
 `Model.py`: Model containing the CNN architecture to be built after passing the CNN architecture details as command-line arguments.
+
+### Salient features
+* Code written in PyTorch modules (torch, torchvision).
+* The training provides fp16 with mixed precision support for faster training.
+* The training is flexible to run on cpu and cuda. Simply change the DEVICE parameter in `train.py` code.
+* `class2indices.json` file is a class distribution balanced train and validation split for faster loading.
+
 
 ### Command-line Arguments
 
