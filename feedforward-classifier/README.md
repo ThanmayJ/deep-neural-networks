@@ -1,1 +1,1 @@
-# feedforward-classifier
+# cs6910_assignment
